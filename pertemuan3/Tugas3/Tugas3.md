@@ -13,9 +13,10 @@
 ![CHECK-OUT ](./check-out.png)
 
 ### 4. CHECK-OUT lebih dari sekali
-![CHECK-OUT lebih dari sekali](Tugas3/check-out2.png)
+![CHECK-OUT lebih dari sekali](check-out2.png)
 
 ### 5. reports/daily
-![reports/daily](Tugas3/report_daily.png)
+![reports/daily](report_daily.png)
+
 
 
