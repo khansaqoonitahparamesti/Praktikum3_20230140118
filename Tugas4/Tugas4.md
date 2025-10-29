@@ -5,13 +5,14 @@
 
 
 ## 1. Endpoint Presensi Check-in
-![Check-in](Tugas4/checkin.png)
+![Check-in](./checkin.png)
 
 ## 2. Endpoint Presensi Check-out
-![Check-out](Tugas4/checkout.png)
+![Check-out](./checkout.png)
 
 ## 3. Database Setelah Presensi
-![Database](Tugas4/database.png)
+![Database](./database.png)
 
 ## 4. Endpoint Report Harian
-![Report](Tugas4/report.png)
+
+![Report](./report.png)
