@@ -6,4 +6,5 @@
 
 ## 1. Update
 
-![Update](/Update.png)
+![Update](./Update.png)
+
