@@ -5,4 +5,5 @@
 
 
 ## 1. Update
-![Update](Tugas5/Update.png)
+
+![Update](/Update.png)
